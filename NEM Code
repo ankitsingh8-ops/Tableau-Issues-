@@ -1,0 +1,20 @@
+ROUND(
+
+(
+    /* 75% ONISR Met % */
+    (
+        SUM(IIF([MetMissed] = "Met", 1, 0))
+        /
+        NULLIF(SUM(IIF([MetMissed] IN ("Met","Missed"), 1, 0)),0)
+    ) * 0.75
+
+    +
+
+    /* 25% Cycle Time efficiency */
+    (
+        1 + ((107 - AVG([APPD_RFS])) / 107)
+    ) * 0.25
+
+) * 100
+
+, 2)
