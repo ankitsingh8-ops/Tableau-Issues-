@@ -1,0 +1,698 @@
+[
+  {
+    "name": "column_1",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 1 - Sample: EAST PMO"
+  },
+  {
+    "name": "column_2",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 2 - Sample: N"
+  },
+  {
+    "name": "column_3",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 3 - Sample: Jean-Francois Lepage"
+  },
+  {
+    "name": "column_4",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 4 - Sample: ZNF01PN"
+  },
+  {
+    "name": "column_5",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 5 - Sample: ZPSFMONW"
+  },
+  {
+    "name": "column_6",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 6 - Sample: NP000002959578"
+  },
+  {
+    "name": "column_7",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 7 - Sample: 1335397"
+  },
+  {
+    "name": "column_8",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 8 - Sample: Jean-Francois Lepage"
+  },
+  {
+    "name": "column_9",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 9 - Sample: Mathieu Savoie"
+  },
+  {
+    "name": "column_10",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 10 - Sample: 0"
+  },
+  {
+    "name": "column_11",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 11 - Sample: null"
+  },
+  {
+    "name": "column_12",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 12 - Sample: null"
+  },
+  {
+    "name": "column_13",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 13 - Sample: Y"
+  },
+  {
+    "name": "column_14",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 14 - Sample: null"
+  },
+  {
+    "name": "column_15",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 15 - Sample: null"
+  },
+  {
+    "name": "column_16",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 16 - Sample: null"
+  },
+  {
+    "name": "column_17",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 17 - Sample: null"
+  },
+  {
+    "name": "column_18",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 18 - Sample: 2,025"
+  },
+  {
+    "name": "column_19",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 19 - Sample: IP_OPTICAL_&_WLS"
+  },
+  {
+    "name": "column_20",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 20 - Sample: 1"
+  },
+  {
+    "name": "column_21",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 21 - Sample: IPO_CELLTX"
+  },
+  {
+    "name": "column_22",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 22 - Sample: Michael Dorland"
+  },
+  {
+    "name": "column_23",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 23 - Sample: Martin Lariviere"
+  },
+  {
+    "name": "column_24",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 24 - Sample: Anne Martin"
+  },
+  {
+    "name": "column_25",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 25 - Sample: null"
+  },
+  {
+    "name": "column_26",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 26 - Sample: null"
+  },
+  {
+    "name": "column_27",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 27 - Sample: 05/26/2025"
+  },
+  {
+    "name": "column_28",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 28 - Sample: null"
+  },
+  {
+    "name": "column_29",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 29 - Sample: null"
+  },
+  {
+    "name": "column_30",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 30 - Sample: 900"
+  },
+  {
+    "name": "column_31",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 31 - Sample: N"
+  },
+  {
+    "name": "column_32",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 32 - Sample: null"
+  },
+  {
+    "name": "column_33",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 33 - Sample: null"
+  },
+  {
+    "name": "column_34",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 34 - Sample: null"
+  },
+  {
+    "name": "column_35",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 35 - Sample: 05/14/2025"
+  },
+  {
+    "name": "column_36",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 36 - Sample: 05/14/2025"
+  },
+  {
+    "name": "column_37",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 37 - Sample: null"
+  },
+  {
+    "name": "column_38",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 38 - Sample: null"
+  },
+  {
+    "name": "column_39",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 39 - Sample: null"
+  },
+  {
+    "name": "column_40",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 40 - Sample: null"
+  },
+  {
+    "name": "column_41",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 41 - Sample: null"
+  },
+  {
+    "name": "column_42",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 42 - Sample: null"
+  },
+  {
+    "name": "column_43",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 43 - Sample: null"
+  },
+  {
+    "name": "column_44",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 44 - Sample: null"
+  },
+  {
+    "name": "column_45",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 45 - Sample: null"
+  },
+  {
+    "name": "column_46",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 46 - Sample: null"
+  },
+  {
+    "name": "column_47",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 47 - Sample: Stephane Henry"
+  },
+  {
+    "name": "column_48",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 48 - Sample: null"
+  },
+  {
+    "name": "column_49",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 49 - Sample: null"
+  },
+  {
+    "name": "column_50",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 50 - Sample: null"
+  },
+  {
+    "name": "column_51",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 51 - Sample: X293216"
+  },
+  {
+    "name": "column_52",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 52 - Sample: null"
+  },
+  {
+    "name": "column_53",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 53 - Sample: null"
+  },
+  {
+    "name": "column_54",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 54 - Sample: null"
+  },
+  {
+    "name": "column_55",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 55 - Sample: null"
+  },
+  {
+    "name": "column_56",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 56 - Sample: null"
+  },
+  {
+    "name": "column_57",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 57 - Sample: null"
+  },
+  {
+    "name": "column_58",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 58 - Sample: null"
+  },
+  {
+    "name": "column_59",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 59 - Sample: null"
+  },
+  {
+    "name": "column_60",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 60 - Sample: null"
+  },
+  {
+    "name": "column_61",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 61 - Sample: Z-QC"
+  },
+  {
+    "name": "column_62",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 62 - Sample: RAN Coverage"
+  },
+  {
+    "name": "column_63",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 63 - Sample: MO11.01"
+  },
+  {
+    "name": "column_64",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 64 - Sample: RAN Coverage Indigeneous & Success Ba"
+  },
+  {
+    "name": "column_65",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 65 - Sample: MO11.01.MQC0D"
+  },
+  {
+    "name": "column_66",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 66 - Sample: RAN Coverage"
+  },
+  {
+    "name": "column_67",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 67 - Sample: MO11"
+  },
+  {
+    "name": "column_68",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 68 - Sample: MO00-25"
+  },
+  {
+    "name": "column_69",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 69 - Sample: Jean-Francois Lepage"
+  },
+  {
+    "name": "column_70",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 70 - Sample: CONTRACTOR"
+  },
+  {
+    "name": "column_71",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 71 - Sample: Thami Alami Merroun"
+  },
+  {
+    "name": "column_72",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 72 - Sample: CRTD"
+  },
+  {
+    "name": "column_73",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 73 - Sample: null"
+  },
+  {
+    "name": "column_74",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 74 - Sample: PL"
+  },
+  {
+    "name": "column_75",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 75 - Sample: null"
+  },
+  {
+    "name": "column_76",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 76 - Sample: null"
+  },
+  {
+    "name": "column_77",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 77 - Sample: null"
+  },
+  {
+    "name": "column_78",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 78 - Sample: null"
+  },
+  {
+    "name": "column_79",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 79 - Sample: null"
+  },
+  {
+    "name": "column_80",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 80 - Sample: null"
+  },
+  {
+    "name": "column_81",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 81 - Sample: 2,959,578"
+  },
+  {
+    "name": "column_82",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 82 - Sample: Opened"
+  },
+  {
+    "name": "column_83",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 83 - Sample: QC_E10"
+  },
+  {
+    "name": "column_84",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 84 - Sample: XXX:GDBTPQXQ:IGS:LA:GDBT - PQ105151"
+  },
+  {
+    "name": "column_85",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 85 - Sample: ZNP1"
+  },
+  {
+    "name": "column_86",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 86 - Sample: Other"
+  },
+  {
+    "name": "column_87",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 87 - Sample: Josee Levesque"
+  },
+  {
+    "name": "column_88",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 88 - Sample: Jean-Francois Lepage"
+  },
+  {
+    "name": "column_89",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 89 - Sample: EAST PMO"
+  },
+  {
+    "name": "column_90",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 90 - Sample: Frederic Jutras"
+  },
+  {
+    "name": "column_91",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 91 - Sample: Martin Lariviere"
+  },
+  {
+    "name": "column_92",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 92 - Sample: 1,200"
+  },
+  {
+    "name": "column_93",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 93 - Sample: RAN LYNX Cote Nord"
+  },
+  {
+    "name": "column_94",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 94 - Sample: P-2570149.01"
+  },
+  {
+    "name": "column_95",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 95 - Sample: 05/22/2025"
+  },
+  {
+    "name": "column_96",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 96 - Sample: 2025-09-01"
+  },
+  {
+    "name": "column_97",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 97 - Sample: null"
+  },
+  {
+    "name": "column_98",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 98 - Sample: null"
+  },
+  {
+    "name": "column_99",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 99 - Sample: null"
+  },
+  {
+    "name": "column_100",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 100 - Sample: null"
+  },
+  {
+    "name": "column_101",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 101 - Sample: null"
+  },
+  {
+    "name": "column_102",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 102 - Sample: null"
+  },
+  {
+    "name": "column_103",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 103 - Sample: null"
+  },
+  {
+    "name": "column_104",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 104 - Sample: QC"
+  },
+  {
+    "name": "column_105",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 105 - Sample: 11/24/2025"
+  },
+  {
+    "name": "column_106",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 106 - Sample: null"
+  },
+  {
+    "name": "column_107",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 107 - Sample: null"
+  },
+  {
+    "name": "column_108",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 108 - Sample: 12/31/2025"
+  },
+  {
+    "name": "column_109",
+    "type": "DATE",
+    "mode": "NULLABLE",
+    "description": "Column 109 - Sample: 05/26/2025"
+  },
+  {
+    "name": "column_110",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 110 - Sample: Puneet Rayat"
+  },
+  {
+    "name": "column_111",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 111 - Sample: Frederic Jutras"
+  },
+  {
+    "name": "column_112",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 112 - Sample: CRTD"
+  },
+  {
+    "name": "column_113",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 113 - Sample: null"
+  },
+  {
+    "name": "column_114",
+    "type": "INTEGER",
+    "mode": "NULLABLE",
+    "description": "Column 114 - Sample: 1"
+  },
+  {
+    "name": "column_115",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 115 - Sample: CRTD"
+  },
+  {
+    "name": "column_116",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "Column 116 - Sample: Mathieu Savoie"
+  }
+]
