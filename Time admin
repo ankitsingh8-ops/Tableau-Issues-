@@ -1,0 +1,4 @@
+IF REGEXP_MATCH([NtwkTitle] , '(?i)(Time|PM)[ _]{1,2}Admin') THEN 'Y'
+ELSEIF REGEXP_MATCH([NtwkTitle] , '(?i)Time[ _]{1,2}Reporting') THEN 'Y'
+ELSE 'N'
+END
